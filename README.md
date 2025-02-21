@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Back End Development & Basics of ML**
 
-- 👨‍💻 All of my projects are available at [https://main--prajwaldahake.netlify.app/](https://main--prajwaldahake.netlify.app/)
-
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **pddahake96@gmail.com**
